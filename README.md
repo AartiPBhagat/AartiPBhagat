@@ -10,7 +10,7 @@
 - 🎓 I stuided Physics and Data Science. I'm constantly learning and exploring new technologies.
 - 😄 Pronouns: She
 - ⚡ Fun fact: I have a quirky talent – I can write both English and Gujarati text in mirror writing!
-- 🤔 Hobbies/Interests : Coding, Stock Market, Spirituality, Origami, Mandala Art
+- 🤔 Hobbies/Interests : Coding, Stock Market, Spirituality, Yoga, Origami, Mandala Art
 
 ## 💻 Technologies & Tools
 
